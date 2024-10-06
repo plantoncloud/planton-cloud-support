@@ -2,7 +2,7 @@
 name: Bug report
 about: A place to report bugs in the product
 title: ''
-labels: kind/bug,needs-triage
+labels: "kind/bug,needs-triage"
 assignees: ''
 
 ---
