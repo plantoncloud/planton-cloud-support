@@ -2,7 +2,7 @@
 name: Bug report
 about: A place for general product feedback if the other categories do not apply
 title: ''
-labels: customer/feedback, needs-triage
+labels: bug,needs-triage
 assignees: ''
 
 ---
