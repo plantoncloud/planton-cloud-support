@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: A place for general product feedback if the other categories do not apply
+about: A place to report bugs in the product
 title: ''
 labels: kind/bug,needs-triage
 assignees: ''
